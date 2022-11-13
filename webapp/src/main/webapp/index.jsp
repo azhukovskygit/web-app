@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>This is DevOps CI/CD Project!</h1>
+   <h1>Making changes to trigger build automatically!</h1>
 
   
 </form>
